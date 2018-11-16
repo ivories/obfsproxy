@@ -1,2 +1,0 @@
-# obfsproxy
-obfsproxy windows client
